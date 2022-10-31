@@ -7,7 +7,7 @@ const About = () => {
   const { title, subtitle1, subtitle2, btnText, btnIcon } = aboutData;
   return (
     <section>
-    <div className='container mx-auto'>
+    <div className='contain'>
     </div>
     </section>
   );
